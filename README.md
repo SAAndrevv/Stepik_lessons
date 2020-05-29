@@ -1,4 +1,4 @@
 # Stepik_lessons
 Lessons from stepik course
 
-First time im using git to do something
+Im using git to do something first time.
